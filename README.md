@@ -6,21 +6,21 @@
 
 ```javascript
 const Rob = {
-	code: ['Javascript', 'Typescript', 'Python', 'C#'],
-	technologies: {
-    	frontEnd: {
-    		js: ['Angular', 'React'],
-    		css: ['bootstrap', 'tailwindcss'],
-    	},
-    	backEnd: {
-      		js: ['node', 'express'],
-    	},
-    	databases: ['mongo', 'MySql'],
-    	image: ['Adobe Photoshop', 'Adobe Lightroom'],
-    	video: ['Adobe Premiere Pro', 'Adobe After Effects', 'OBS'],
-    	audio: ['Avid Pro Tools'],
-  	},
-  	interest: ['tech', 'videogames', 'mech keys', 'movies', 'series', 'anime'],
-  	currentFocus: 'Learning JavaScript properly',
+  code: ['Javascript', 'Typescript', 'Python', 'C#'],
+  technologies: {
+    frontEnd: {
+      js: ['Angular', 'React'],
+      css: ['bootstrap', 'tailwindcss'],
+    },
+    backEnd: {
+      js: ['node', 'express'],
+    },
+    databases: ['mongo', 'MySql'],
+    image: ['Adobe Photoshop', 'Adobe Lightroom'],
+    video: ['Adobe Premiere Pro', 'Adobe After Effects', 'OBS'],
+    audio: ['Avid Pro Tools'],
+  },
+  interest: ['tech', 'videogames', 'mech keys', 'movies', 'series', 'anime'],
+  currentFocus: 'Learning JavaScript properly',
 };
 ```
