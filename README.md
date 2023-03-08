@@ -20,7 +20,7 @@ const Rob = {
     testing: ["Testing Library", "Jest"],
     databases: ["MySql", "PostgreSQL", "MongoDB", "Firebase"],
     utils: ["Prisma", "Postman"],
-    image: ["Adobe Photoshop", "Adobe Lightroom"],
+    image: ["Adobe Photoshop", "Adobe Lightroom", "Figma"],
     video: ["Adobe Premiere Pro", "Adobe After Effects", "OBS"],
     audio: ["Avid Pro Tools"],
   },
