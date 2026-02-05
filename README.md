@@ -4,29 +4,48 @@
 
 ### About me
 
-```javascript
+```typescript
 const Rob = {
   code: ["Javascript", "Typescript", "Python", "Dart", "HTML", "CSS"],
   technologies: {
     frontEnd: {
-      js: ["React", "Remix", "Angular"],
-      css: ["Bootstrap", "Tailwind CSS"],
+      js: ["Next.js", "TanStack Start", "Astro", "React"],
+      css: ["Tailwind CSS"],
     },
     backEnd: {
-      js: ["NodeJS", "ExpressJS", "NestJS"],
-      python: ["Django"],
+      js: ["NestJS", "HonoJS", "Bun", "NodeJS"],
     },
-    mobile: ["Flutter", "React Native", "Ionic"],
-    testing: ["Testing Library", "Jest"],
-    databases: ["MySql", "PostgreSQL", "MongoDB", "Firebase"],
-    utils: ["Prisma", "Postman"],
-    image: ["Adobe Photoshop", "Adobe Lightroom", "Figma"],
+    mobile: ["Flutter", "React Native"],
+    testing: ["Vitest"],
+    databases: ["PostgreSQL"],
+    orms: ["Drizzle ORM", "Sequelize"],
+    image: ["Figma", "Affinity", "Adobe Photoshop", "Adobe Lightroom"],
     video: ["Adobe Premiere Pro", "Adobe After Effects", "OBS"],
     audio: ["Avid Pro Tools"],
+    aiTools: ["Vercel AI SDK", "Mastra.ai"],
+    aiCodingTools: [
+      "Claude Code",
+      "OpenAI Codex",
+      "OpenCode",
+      "Lovable",
+      "Gemini CLI",
+      "Antigravity",
+    ],
+    devOps: ["Docker", "GitHub Actions", "Blacksmith"],
+    versionControl: ["Git"],
+    monorepo: ["pnpm workspaces", "NX"],
+    deployment: ["Dokploy"],
+  },
+  previouslyUsed: {
+    frontEnd: ["Angular", "Bootstrap"],
+    mobile: ["Ionic"],
+    testing: ["Jest", "Testing Library"],
+    databases: ["MySQL", "MongoDB", "Firebase"],
+    utils: ["Prisma"],
+    backEnd: ["Django"],
   },
   interest: ["tech", "videogames", "mech keys", "movies", "series", "anime"],
-  currentFocus:
-    "Learning functional programming with JavaScript and starting with Rust",
+  currentFocus: "Learning about Vercel AI SDK and Mastra AI",
   work: "Full Stack Developer at apto",
 };
 ```
