@@ -6,6 +6,8 @@
 
 ```typescript
 const Rob = {
+  work: "Full Stack Developer at apto",
+  currentFocus: "Learning about Vercel AI SDK and Mastra AI",
   code: ["Javascript", "Typescript", "Python", "Dart", "HTML", "CSS"],
   technologies: {
     frontEnd: {
@@ -45,7 +47,5 @@ const Rob = {
     backEnd: ["Django"],
   },
   interest: ["tech", "videogames", "mech keys", "movies", "series", "anime"],
-  currentFocus: "Learning about Vercel AI SDK and Mastra AI",
-  work: "Full Stack Developer at apto",
 };
 ```
